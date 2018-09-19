@@ -1,2 +1,3 @@
 # ML-Simple_Linear_Regression
-Linear Regression
+
+This is a simple Linear Regression
